@@ -13,10 +13,7 @@ Am zweiten Tag auf unserem Weg nach Drachenzwinge erreichten wir die Weststraße
 
 ----
 <br>
-<table style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <td><a href="day13.md"><</a></td>
-    <td><a href="README.md">Tag 1</a></td>
-    <td><a href="day15.md">></a></td>
-  </tr>
-</table>
+
+[<](day13.md)
+[Tag 1](README.md)
+[>](day15.md)<br>

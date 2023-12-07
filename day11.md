@@ -17,10 +17,7 @@ Erleichtert, dass wir beide Sabotageakte verhindern konnten, gingen wir schlafen
 
 ----
 <br>
-<table style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <td><a href="day10.md"><</a></td>
-    <td><a href="README.md">Tag 1</a></td>
-    <td><a href="day12.md">></a></td>
-  </tr>
-</table>
+
+[<](day10.md)
+[Tag 1](README.md)
+[>](day12.md)<br>

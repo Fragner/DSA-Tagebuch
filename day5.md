@@ -27,10 +27,7 @@ Da uns in dem Moment die Hände gebunden waren und die Goblins zumindest für de
 
 ----
 <br>
-<table style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <td><a href="day4.md"><</a></td>
-    <td><a href="README.md">Tag 1</a></td>
-    <td><a href="day6.md">></a></td>
-  </tr>
-</table>
+
+[< ](day4.md)
+[ Tag 1 ](README.md)
+[ >](day6.md)<br>

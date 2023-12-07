@@ -17,10 +17,7 @@ Um unser Versprechen Jeterine gegenüber zu halten, nahmen wir sie mit auf die J
 
 ----
 <br>
-<table style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <td><a href="day9.md"><</a></td>
-    <td><a href="README.md">Tag 1</a></td>
-    <td><a href="day11.md">></a></td>
-  </tr>
-</table>
+
+[<](day9.md)
+[Tag 1](README.md)
+[>](day11.md)<br>

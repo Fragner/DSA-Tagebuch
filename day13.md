@@ -13,10 +13,7 @@ Mehrere Minuten dauerte ihr Wüten an, bis ihre Sinne wieder klar wurden und sie
 
 ----
 <br>
-<table style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <td><a href="day12.md"><</a></td>
-    <td><a href="README.md">Tag 1</a></td>
-    <td><a href="day14.md">></a></td>
-  </tr>
-</table>
+
+[<](day12.md)
+[Tag 1](README.md)
+[>](day14.md)<br>

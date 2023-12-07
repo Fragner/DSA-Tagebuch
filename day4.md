@@ -15,10 +15,7 @@ Gegen Abend kamen wir in Harden an, wo wir den genauen Standort von Timpski erfu
 
 ----
 <br>
-<table style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <td><a href="day3.md"><</a></td>
-    <td><a href="README.md">Tag 1</a></td>
-    <td><a href="day5.md">></a></td>
-  </tr>
-</table>
+
+[< ](day3.md)
+[ Tag 1 ](README.md)
+[ >](day5.md)<br>

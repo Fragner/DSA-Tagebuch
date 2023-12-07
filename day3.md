@@ -3,7 +3,7 @@ title: Day3
 filename: day3.md
 --- 
 
-# Tag3
+# Tag 3
 ### 07.09.2022 21:38
 Wieder an der Kaleschka entdeckten wir einen Raben, der ein Auge auf Darians Laute geworfen hatte. Nach ein paar vorsichtigen Annäherungsversuchen und Darians magischem Lautenspiel gelang es uns, den Vogel zu füttern und sein Vertrauen vorerst zu gewinnen. 
 Die Weiterfahrt nach Hamkeln verlief ohne Zwischenfälle. Um noch vor Einbruch der Nacht dorthin zu kommen, entschlossen wir uns, nicht in Blütenfeld zu halten. Der Rabe fuhr sogar auf der Kalscheka mit und zeigte besonderes Interesse an der Laute. 
@@ -19,10 +19,11 @@ Bild Wappen
  
 Gestärkt durch Navarios Magie und den erholsamen Schlaf befand sich Darian auf dem Weg der Besserung. Nach etwas Herumfragen bekamen wir den Tipp bei der Bäckerin vorbeizuschauen, da sie bestens über die Geschehnisse der Stadt informiert sei. Jaruslaw kam vor einer knappen Woche mit zwei angeketteten Goblins in die Stadt und nächtigte bei der Herzogin. Auch Timpskis Heer wurde in die Stadt gelassen. Olko will jetzt eine Audienz bei der Herzogin, um mehr über das Schicksal seiner Freunde zu erfahren. Sollte diese Ihm verwehrt werden könnte vielleicht der Leibdiener uns ein paar Informationen geben.
 
-<table style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <td><a href="day2.md"><</a></td>
-    <td><a href="README.md">Tag 1</a></td>
-    <td><a href="day4.md">></a></td>
-  </tr>
-</table>
+<br>
+
+----
+<br>
+
+[< ](day2.md)
+[ Tag 1 ](README.md)
+[ >](day4.md)<br>

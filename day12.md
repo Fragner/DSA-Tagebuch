@@ -11,15 +11,11 @@ Timpski kam gleich zum Punkt, er bat uns, unsere Beziehungen zu den Norbarden zu
 Der nächste Tag begann wieder mit dem Messen der Eisplatte durch Schitzin Jadvige. Neugierig nahm auch Kumo Maß und stellte fest, dass das Eis Menschen ohne Rüstung nun problemlos tragen kann. Währenddessen bedankte sich Bran bei Jeterine für ihre Hilfe bei der Goblinbefreiung. Kurz bevor wir zum Verhandlungsplatz aufbrachen, eilte Berschin zu uns und fragte, ob wir nicht seinen Dolch gesehen hätten. Beunruhigt, dass jemand einen Angriff planen könnte und dem Wachmann die Schuld daran geben würde, informierten wir Leudara darüber. Dank ihrer karmalen Macht konnte sie garantieren, dass keiner der Anwesenden bei der Verhandlung mitführte. Bran, durch den fehlenden Dolch extra Aufmerksam, entdeckte ein Stück Rinde mit roten Farbpigmenten. Unauffällig wies er die Anderen darauf hin und Navario und Kumo konnten noch einige humanoide Spuren entdecken. Navario versuchte mit seiner elfische Gesangsmagie die Anwesenden friedlich zu stimmen, damit schneller eine Einigung gefunden wird. Doch das nasskalte Wetter forderte seinen Preis und so brach der Holzreifen seines Tamburins, wodurch es unbrauchbar wurde. Yamira nutze unterdessen ihre Magie, um die Muhmen einzuschüchtern und so die Verhandlungen zugunsten der Festumer zu beeinflussen. Bran und Kumo verfolgten die Spuren, um einen möglichen Hinterhalt schnell aufzudecken. Nach einiger Zeit erreichten sie einen frischen Wildschweinkadaver, höchstens eine Nacht alt. Den Spuren weiterfolgend erreichten sie ein kleines Versteck mit gutem Blick auf den Verhandlungsplatz.
 Als die Verhandlungen für diesen Tag abgeschlossen waren, war das Angebot der Festumer bei 460 Batzen und der Preis der Norbarden bei 560 Batzen. Endlich gaben die Norbarden nach und im besten Fall kommt es am nächsten Tag zu einer Einigung. Während die beiden Parteien in ihre Lager zurückkehrten, untersuchten wir unsere Funde weiter. Das Wildschwein wurde durch einen Dolch getötet, die Spuren gehörten zu Goblins und im versteck nahe dem verhandlungsplatz fanden wir nochmals Rinde mit Pigmenten und diesmal Wildschweinborsten. Unsere magische Analyse ergab, dass es sich hier um Ritualreagenzien handelte. Da wir unbewaffnet waren entschieden wir uns Prinzibar mit der magischen Münze ins Lager zurückzuschicken um dann mit unseren Waffen und Olko zurückzukehren. Währenddessen suchten wir uns ein Versteck, in dem wir vor der Kälte und vor Blicken anderer geschützt waren. Nach einem kurzen Schnipsen der Münze und einem Augenblinzeln war Prinzibar wieder in der Kaleschka. Er packte alle Waffen, die er finden konnte, holte Olko aus seinem Zelt und wollte gerade aufbrechen, als er eine bekannte Stimme hörte. Rudjew von Arauken, der Mann in schwarzer Rüstung, war wieder da. Wild über die Norbarden schimpfen, behauptete er, dass diese ihn verhext und alle Tiere auf ihn gehetzt hätten. Doch das musste warten. Die beiden Magier eilten zum Versteck nahe dem Verhandlungsplatz zurück und Olko nutzte seine Magie um den Ort zu analysieren. Er bestätigte, dass die Pigmente und Borsten Teil eines Rituals wären, dessen Zweck ihm aber nicht bekannt sei.
 
-
 <br>
 
 ----
 <br>
-<table style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <td><a href="day11.md"><</a></td>
-    <td><a href="README.md">Tag 1</a></td>
-    <td><a href="day13.md">></a></td>
-  </tr>
-</table>
+
+[<](day11.md)
+[Tag 1](README.md)
+[>](day13.md)<br>

@@ -17,10 +17,7 @@ Der nächste Morgen wurde durch ein aggressives Hundegebell eingeläutet. Jarusl
 
 ----
 <br>
-<table style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <td><a href="day8.md"><</a></td>
-    <td><a href="README.md">Tag 1</a></td>
-    <td><a href="day10.md">></a></td>
-  </tr>
-</table>
+
+[<](day8.md)
+[Tag 1](README.md)
+[>](day10.md)<br>
