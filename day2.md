@@ -3,7 +3,7 @@ title: Day2
 filename: day2.md
 --- 
 
-#Tag2
+# Tag2
 ### 26.07.2022 22:33
 Nachdem wir in den Quartieren der Halle des Quecksilbers nächtigen durften, traten wir unsere Reise nach Harden an. An der Kaleschka trafen wir wieder auf Olko, der uns auf dem Weg zu unserem ersten Halt über seine Goblinfreunde erzählte und dabei auch über die legendäre Goblinpauke, welche Berge zum Einsturz bringen kann und Tod und Verderben über die Theaterritter brachte. Er erwähnte auch, dass es bei den Goblins eine ähnliche Legende gab, in der jedoch die Theaterritter die Trommel gegen die Goblins einsetzten. Wir erfuhren auch den Grund warum seine Freunde Festum verließen, Jääni verriet im Rausch das Geheimnis, dass es Rituale zum Verzaubern von Trommeln bei den Goblins gibt. Dadurch wurde sie von ihrer Lehrmeisterin verbannt.
 Bild4 

@@ -3,7 +3,7 @@ title: Day3
 filename: day3.md
 --- 
 
-#Tag3
+# Tag3
 ### 07.09.2022 21:38
 Wieder an der Kaleschka entdeckten wir einen Raben, der ein Auge auf Darians Laute geworfen hatte. Nach ein paar vorsichtigen Annäherungsversuchen und Darians magischem Lautenspiel gelang es uns, den Vogel zu füttern und sein Vertrauen vorerst zu gewinnen. 
 Die Weiterfahrt nach Hamkeln verlief ohne Zwischenfälle. Um noch vor Einbruch der Nacht dorthin zu kommen, entschlossen wir uns, nicht in Blütenfeld zu halten. Der Rabe fuhr sogar auf der Kalscheka mit und zeigte besonderes Interesse an der Laute. 
