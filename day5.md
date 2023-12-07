@@ -20,4 +20,9 @@ Im Lager angekommen wurden wir bei Gardehauptmann Timpski und beim Bronnjaren Ja
  
 Wir konnten auch Olkos Goblinfreunde finden. Sie sind hinter Jaruslaws Zelt angekettet und müssen mit dessen Hund um ihr Essen kämpfen, zur Belustigung einiger Lagerbewohner. Zwischen Olko und Jaroslaw kam es zu einem Wortgefecht über das Schicksal der Goblins. Die beiden Fronten haben sich verhärtet, ein Kauf der Goblins ist ausgeschlossen, da dies Sklaverei wäre. Jaruslaw kann nach belieben über die, laut seinen Aussagen, gesetzlosen Goblins richten, da sie sich auf seinem Land befinden. Olko jedoch bezeugt, dass sie festumer Bürger sind und nur vor ein festumer Gericht gestellt werden dürfen, außerdem seien alle Zeugen des Diebstahls von Jaroslaw abhängig. Olko erfuhr im Lager, dass Jaruslaws Knappin, eine Jeterine von Salderkeim, großen Einfluss auf ihn hat. Sie könnte vielleicht der Schlüssel zur Befreiung der Goblins sein. 
  
-•  Da uns in dem Moment die Hände gebunden waren und die Goblins zumindest für den Rest des Abend sicher vor dem Hund waren, zogen wir uns in unsere Zelte zurück. Die Nacht war jedoch nicht sehr erholsam, da ständig das Geheul von Wölfen zu hören war.
+•  
+Da uns in dem Moment die Hände gebunden waren und die Goblins zumindest für den Rest des Abend sicher vor dem Hund waren, zogen wir uns in unsere Zelte zurück. Die Nacht war jedoch nicht sehr erholsam, da ständig das Geheul von Wölfen zu hören war.
+
+[Tag 1](README.md)<br>
+[Tag 4](day4.md)<br>
+[Tag 6](day6.md)<br>
