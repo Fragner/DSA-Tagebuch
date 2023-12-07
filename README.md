@@ -1,9 +1,19 @@
 # DSA-Tagebuch
-Das Heldenabenteuer der Engelgruppe
-
-
+Das Heldenabenteuer der Engelgruppe mit folgenden Charakteren:
+ 
+### Helden 
+* Bran
+* Darian
+* Kumo
+* Navario
+* Prinzibar
+* Yamira
+  * Katze Tara
 <br>
 
+### Weggefährten:
+* Olko
+* Leudara
 ----
 <br>
 
