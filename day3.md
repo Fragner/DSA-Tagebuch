@@ -15,7 +15,7 @@ Ein Schlüssel, dessen Bart nicht gefeilt war. Auf den ersten Blick zwar nutzlos
 
 Während der Überfahrt und in Hulga schlief Darian in der Kalscheka, um sich zu erholen. Zwar tropfte seine Nase nicht mehr, jedoch schien er sich mit Dumpfschädel angesteckt zu haben. Der Rest der Gruppe hörte sich in der Stadt um, da hier Olko’s Freunde gefangen genommen wurden. Es stellte sich heraus, dass Jaruslaw von Kirschhausen die Goblins nach Kirschhausen mitnahm und sie des Diebstahls beschuldigte. Hauptmann Timpski heuerte auch einige Söldner vor knapp zwei Wochen an. Dank Kumo’s Traschbarttees konnte Darian die Kaleschka bis nach Kirschhausen fahren wo er sich in einem Einzelzimmer ausruhen konnte. In der Taverne hoffte Bran auf schnelles Geld beim Kartenspiel, doch schien er von Phex verlassen und so entschied er sich, mit zwielichtigen Methoden seine Taschen zu füllen.
 
-Bild Wappen  
+![Alt Text](images/Wappen_Kirschhausen.webp "Wappen Kirschhausen") 
  
 Gestärkt durch Navarios Magie und den erholsamen Schlaf befand sich Darian auf dem Weg der Besserung. Nach etwas Herumfragen bekamen wir den Tipp bei der Bäckerin vorbeizuschauen, da sie bestens über die Geschehnisse der Stadt informiert sei. Jaruslaw kam vor einer knappen Woche mit zwei angeketteten Goblins in die Stadt und nächtigte bei der Herzogin. Auch Timpskis Heer wurde in die Stadt gelassen. Olko will jetzt eine Audienz bei der Herzogin, um mehr über das Schicksal seiner Freunde zu erfahren. Sollte diese Ihm verwehrt werden könnte vielleicht der Leibdiener uns ein paar Informationen geben.
 
