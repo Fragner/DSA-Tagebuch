@@ -19,6 +19,6 @@ Bild Wappen
  
 Gestärkt durch Navarios Magie und den erholsamen Schlaf befand sich Darian auf dem Weg der Besserung. Nach etwas Herumfragen bekamen wir den Tipp bei der Bäckerin vorbeizuschauen, da sie bestens über die Geschehnisse der Stadt informiert sei. Jaruslaw kam vor einer knappen Woche mit zwei angeketteten Goblins in die Stadt und nächtigte bei der Herzogin. Auch Timpskis Heer wurde in die Stadt gelassen. Olko will jetzt eine Audienz bei der Herzogin, um mehr über das Schicksal seiner Freunde zu erfahren. Sollte diese Ihm verwehrt werden könnte vielleicht der Leibdiener uns ein paar Informationen geben.
 
-[Tag 1](README.md)<br>
-[Tag 2](day2.md)<br>
-[Tag 4](day4.md)
+[< ](day2.md)
+[ Tag 1 ](README.md)
+[ >](day3.md)<br>

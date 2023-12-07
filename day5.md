@@ -23,6 +23,6 @@ Wir konnten auch Olkos Goblinfreunde finden. Sie sind hinter Jaruslaws Zelt ange
   
 Da uns in dem Moment die Hände gebunden waren und die Goblins zumindest für den Rest des Abend sicher vor dem Hund waren, zogen wir uns in unsere Zelte zurück. Die Nacht war jedoch nicht sehr erholsam, da ständig das Geheul von Wölfen zu hören war.
 
-[Tag 1](README.md)<br>
-[Tag 4](day4.md)<br>
-[Tag 6](day6.md)<br>
+[< ](day4.md)
+[ Tag 1 ](README.md)
+[ >](day6.md)<br>
