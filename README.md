@@ -14,4 +14,6 @@ Bild2
 Bei Wippflügler angekommen erfuhren wir von unserem Auftrag: Reist zu den Hardener Sprenkeln, findet den Heerzug den Gardehauptmann Timpski versammelt hat und vermittelt zwischen den Norbarden und den Festumern damit der Trommelkauf ohne Blutvergießen stattfinden kann. Um unsere Reise dorthin zu beschleunigen, wurde uns eine Kaleschka zur Verfügung gestellt. Außerdem wird uns Olko begleiten, da er in die gleiche Richtung reisen muss.
 Bild 3
 
+<p style="text-align: center;">
 [Tag 2](day2.md)<br>
+</p>
