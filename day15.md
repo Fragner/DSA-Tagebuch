@@ -10,7 +10,14 @@ Den Sieben-Baronien-Weg folgend suchten wir nach Spuren der Goblins, fanden jedo
 Nachts hatten wir alle einen seltsamen Traum “Wieder ertönt hinter dir sein Ruf, wieder ein Stück näher, seinem Röhren kannst du nicht entkommen, überall um dich herum regt sich der Wald, harren seine Verbündeten, locken dich in die tödliche Falle. Wieder der Schrei, noch näher. Du läufst und läufst, immer schneller, dein Blick springt hastig, um Dornenranken und lauernde Bestien früh genug zu bemerken. Das Röhren kommt immer näher. Du kommst an einen Fluss. Das ist die Rettung, Du springst und tauchst hinab, um dich herum nur das Rauschen des Wassers. Es ist dunkel, ein Wind weht.” 
 •  
 
+<br>
 
-[< ](day14.md)
-[Tag 1](README.md)
-[ >](day16.md)<br>
+----
+<br>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td><a href="day14.md"><</a></td>
+    <td><a href="README.md">Tag 1</a></td>
+    <td><a href="day16.md">></a></td>
+  </tr>
+</table>

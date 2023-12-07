@@ -7,7 +7,14 @@ filename: day16.md
 ###  
 Wir sind gespannt was im Dungeon passiert!
 
+<br>
+
 ----
-[< ](day15.md)
-[Tag 1](README.md)
-[ >](day17.md)<br>
+<br>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td><a href="day15.md"><</a></td>
+    <td><a href="README.md">Tag 1</a></td>
+    <td><a href="day17.md">></a></td>
+  </tr>
+</table>

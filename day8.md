@@ -9,6 +9,14 @@ Während wir über unser weiteres Vorgehen diskutierten, gesellte sich eine Halb
 •  Nach unserem Sieg informierten wir Anka, dass der Spuk jetzt vorbei war. Wir konnten dem Klabauter auch das Versprechen abnehmen, nicht mehr mit Gegenständen zu werfen. Anka erzählte uns, dass die Familie die Säge erst vor kurzem von dem fahrenden Händler Ragaschoff gekauft hatte. Während wir Tee mit ihr tranken und unsere Belohnung erhielten, traf der Bote der Wrimitows ein. Die Norbardenfamilie stimmt ebenfalls dem Verkauf zu, möchte uns aber zuvor kennenlernen. Mit diesen Neuigkeiten brachen wir zurück ins Lager auf. Im Schilf in einem moorigen bereich konnten wir kurz etwas entdecken, dass uns beobachtete. Tuminka vermutete ein lindwurmartiges Wesen, das in diesen Gewässern sein Revier hat. Im Heerlager angekommen berichteten wir Leudara von unserem Fortschritt. Berschin, die rechte Hand von Hauptmann Timpski und Saufkumpane von Darian erzählte uns, dass seit der Ansprache heute morgen mehr Disziplin im Lager herrsche und der Redner vom Adelsgeschlecht Araunken mit dem Herrn von Kirschhausen trainiert habe. Yamira schlug ihr Zelt neben der Kaleschka auf und während wir am Lagerfeuer unsere weiteren Schritte planten, nutzte Olko seine Magie, um Bran und Kumos Wunden zu heilen.
 
 
-[< ](day7.md)
-[ Tag 1 ](README.md)
-[ >](day9.md)<br>
+<br>
+
+----
+<br>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td><a href="day7.md"><</a></td>
+    <td><a href="README.md">Tag 1</a></td>
+    <td><a href="day9.md">></a></td>
+  </tr>
+</table>

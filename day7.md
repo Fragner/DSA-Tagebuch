@@ -13,6 +13,14 @@ Im Schutze der Dunkelheit gelang es Prinzibar, Bran und Kumo, sich näher an das
 Der Auftrag lautete: beendet den Spuk auf dem Hausboot Gorunkja. Am Schlimmsten davon betroffen ist der Zimmermann Dunjew. Anka selbst verdächtigt die Hexe Norna, da Dunjew sie verschmäht hatte. Wir fanden ihn in seiner Werkstatt, die ziemlich in Mitleidenschaft gezogen war. Fenster und Wände waren durchschlagen, die Tür hing kaum noch in den Angeln und überall lagen Trümmer herum. Während des Gesprächs mit Dunjew wurden wir auch Zeuge des Spuks, ein Tonkrug flog wie von Zauberhand quer durch die Luft und verletzte Kumo. Dunjew konnte Darians Befragung nicht standhalten und gestand, dass er und Norna bereits ein Paar waren, sie also für den Spuk nicht verantwortlich sein kann. Stattdessen glaubt er, dass Pernile, die Zibillja der Prischkaj, einen Humusgeist auf ihn gehetzt hat. Da wir es hier mit einem unsichtbaren Wesen zu tun haben könnten, hatte Bran die Idee, den Raum mit Asche auszustreuen um Spuren des Verursachers zu finden. Darian verteilte die Asche im Raum und bedeckte alles mit einer dünnen grauen Schicht. Nur an der Säge im Werkzeugkasten schien nichts hängen zu bleiben. Plötzlich tauchte hinter uns ein kleines, kniehohes Wesen wie aus dem Nichts auf. Es war ein Klabauter, mit algengrünem Bart und schwarzen, mit Teichpflanzen drapiertem Haar. Er behauptete, dass etwas in der Säge unnatürlich wäre und er es nicht auf seinem Schiff dulde. Auch könne er das Ding in der Säge rauslocken, wenn auch nur kurz. 
 •  •  
 
-[< ](day6.md)
-[ Tag 1 ](README.md)
-[ >](day8.md)<br>
+<br>
+
+----
+<br>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td><a href="day6.md"><</a></td>
+    <td><a href="README.md">Tag 1</a></td>
+    <td><a href="day8.md">></a></td>
+  </tr>
+</table>

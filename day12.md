@@ -12,6 +12,14 @@ Der nächste Tag begann wieder mit dem Messen der Eisplatte durch Schitzin Jadvi
 Als die Verhandlungen für diesen Tag abgeschlossen waren, war das Angebot der Festumer bei 460 Batzen und der Preis der Norbarden bei 560 Batzen. Endlich gaben die Norbarden nach und im besten Fall kommt es am nächsten Tag zu einer Einigung. Während die beiden Parteien in ihre Lager zurückkehrten, untersuchten wir unsere Funde weiter. Das Wildschwein wurde durch einen Dolch getötet, die Spuren gehörten zu Goblins und im versteck nahe dem verhandlungsplatz fanden wir nochmals Rinde mit Pigmenten und diesmal Wildschweinborsten. Unsere magische Analyse ergab, dass es sich hier um Ritualreagenzien handelte. Da wir unbewaffnet waren entschieden wir uns Prinzibar mit der magischen Münze ins Lager zurückzuschicken um dann mit unseren Waffen und Olko zurückzukehren. Währenddessen suchten wir uns ein Versteck, in dem wir vor der Kälte und vor Blicken anderer geschützt waren. Nach einem kurzen Schnipsen der Münze und einem Augenblinzeln war Prinzibar wieder in der Kaleschka. Er packte alle Waffen, die er finden konnte, holte Olko aus seinem Zelt und wollte gerade aufbrechen, als er eine bekannte Stimme hörte. Rudjew von Arauken, der Mann in schwarzer Rüstung, war wieder da. Wild über die Norbarden schimpfen, behauptete er, dass diese ihn verhext und alle Tiere auf ihn gehetzt hätten. Doch das musste warten. Die beiden Magier eilten zum Versteck nahe dem Verhandlungsplatz zurück und Olko nutzte seine Magie um den Ort zu analysieren. Er bestätigte, dass die Pigmente und Borsten Teil eines Rituals wären, dessen Zweck ihm aber nicht bekannt sei.
 
 
-[< ](day11.md)
-[Tag 1](README.md)
-[ >](day13.md)<br>
+<br>
+
+----
+<br>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td><a href="day11.md"><</a></td>
+    <td><a href="README.md">Tag 1</a></td>
+    <td><a href="day13.md">></a></td>
+  </tr>
+</table>
