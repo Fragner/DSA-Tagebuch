@@ -7,6 +7,7 @@ filename: day16.md
 ###  
 Wir sind gespannt was im Dungeon passiert!
 
-[Tag 1](README.md)<br>
-[<](day15.md)<br>
-[>](day17.md)<br>
+----
+[< ](day15.md)
+[Tag 1](README.md)
+[ >](day17.md)<br>

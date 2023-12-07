@@ -13,6 +13,7 @@ Um unser Versprechen Jeterine gegenüber zu halten, nahmen wir sie mit auf die J
  
 •  Im Lager angekommen, wurden wir sehr unfreundlich vom Wachposten begrüßt. Zuerst dachten wir, dass der an uns haftende Moorwurmgestank dafür verantwortlich war, aber nach einem Gespräch mit Olko, Berschin und Leudara schien es, als ob keiner zum Abendessen gegangen wäre, weil jedem der Appetit vergangen war. Im Küchenzelt selbst war auch nur eine Küchenhilfe, die widerwillig Kartoffeln schälte. Der Herr von Araunken war auch nicht mehr im Lager. Kirschhausens Hund hatte ihn angefallen und ließ trotz strengem Kommando nicht von ihm ab. Sie mussten den Köter niederstrecken, damit dem Bronnjar nicht das Gesicht zerfleischt wurde. Danach verließ er das Lager zu Pferde. Es schien, als ob Yamiras Magie Wirkung zeigte.
 
-[Tag 1](README.md)<br>
-[<](day9.md)<br>
-[>](day11.md)<br>
+
+[< ](day9.md)
+[ Tag 1 ](README.md)
+[ >](day11.md)<br>

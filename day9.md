@@ -13,6 +13,6 @@ Am nächsten Morgen besuchte ein fahrender Händler Names Aljeg Ragaschoff das L
 •  Im Lager angekommen berichteten wir Leudara, Timpski und Jaruslaw von unserem Erfolg. Darian und Prinzibar baten den Herrn von Kirschhausen, seine Knappin Jeterine bei der Jagd auf das Sumpfmonster mitnehmen zu dürfen. Aufgrund unseres jüngsten Erfolges und da er durch die Verhandlungen verhindert sein wird, stimmte er zu, jedoch nicht ohne eine Drohung auszusprechen, sollte seinem Schützling etwas zustoßen. Yamira beschloss, den Krieger in schwarz davon zu überzeugen, das Lager zu verlassen, da er ein Störfaktor bei den Verhandlungen sein könnte, um das Vertrauen der Gruppe zu erlangen. Wie sie das anstellen will, verriet sie keinem, nur dass sie über Mittel und Wege verfügt, um das zu bewerkstelligen.
 Der nächste Morgen wurde durch ein aggressives Hundegebell eingeläutet. Jaruslaws Köter schien nicht erfreut über die Anwesenheit des Herrn von Arauken und ließ sich kaum beruhigen. Selbst die Pferde schnauben in seiner Gegenwart. Nach dem Frühstück brachen wir zur Vandraschek-Lichtung auf. Dort angekommen, wurden wir von beiden Seiten als neutrale Partei anerkannt und jedem von uns pro Verhandlungstag von jeder Seite ein Groschen versprochen. Als Zeichen des guten Willens überreichte Anka Prischkaj dem Hauptmann einen Krug Meskinnes. Bran und Kumo bemerkten eine Art Symbol auf dem Krug, konnten es jedoch nicht zuordnen. Die Verhandlungen verliefen holprig und gegen Mittag waren beide Seiten so festgefahren, dass auf morgen vertagt wurde. Das momentane Gebot der Festumer liegt bei 220 Dukaten, die Norbarden wollen 770 Dukaten. Bevor sich alle auf den Heimweg machten, bekamen wir unseren Lohn für diesen Tag.
 
-[Tag 1](README.md)<br>
-[<](day8.md)<br>
-[>](day10.md)<br>
+[< ](day8.md)
+[ Tag 1 ](README.md)
+[ >](day10.md)<br>
