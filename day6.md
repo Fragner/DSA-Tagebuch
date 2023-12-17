@@ -15,5 +15,5 @@ Navario und Kumo beschlossen, in der Nähe des Lagers nach Wolfsspuren zu suchen
 
 
 [< ](day5.md)
-[ Tag 1 ](README.md)
+[ Tag 1 ](day1.md)
 [ >](day7.md)<br>

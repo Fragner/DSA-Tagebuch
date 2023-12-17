@@ -24,5 +24,5 @@ Zurück im Lager, erhielten wir unseren Lohn von Timpski und packten unsere Zelt
 <br>
 
 [<](day12.md)
-[Tag 1](README.md)
+[Tag 1](day1.md)
 [>](day14.md)<br>

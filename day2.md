@@ -18,5 +18,5 @@ Am Morgen des nächsten Tages brachen wir nach Nivesel auf, Kumo, der Langschlä
 
 
 [< ](day1.md)
-[ Tag 1 ](README.md)
+[ Tag 1 ](day1.md)
 [ >](day3.md)<br>

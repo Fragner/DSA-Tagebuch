@@ -22,5 +22,5 @@ Nachts hatten wir alle einen seltsamen Traum<br>
 <br>
 
 [<](day14.md)
-[Tag 1](README.md)
+[Tag 1](day1.md)
 [>](day16.md)<br>

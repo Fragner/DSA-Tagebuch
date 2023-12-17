@@ -25,5 +25,5 @@ Nach einem kurzen Schnipsen der Münze und einem Augenblinzeln war Prinzibar wie
 <br>
 
 [<](day11.md)
-[Tag 1](README.md)
+[Tag 1](day1.md)
 [>](day13.md)<br>

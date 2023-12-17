@@ -33,5 +33,5 @@ Erleichtert, dass wir beide Sabotageakte verhindern konnten, gingen wir schlafen
 <br>
 
 [<](day10.md)
-[Tag 1](README.md)
+[Tag 1](day1.md)
 [>](day12.md)<br>

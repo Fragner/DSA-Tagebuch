@@ -17,4 +17,4 @@ Das Heldenabenteuer der Engelgruppe mit folgenden Charakteren:
 ----
 <br>
 
-Hier beginnt nun unser Abenteuer mit [Tag 1](day1.md)
+Hier beginnt nun unser Abenteuer mit [Tag 1](day1.md), und hier könnt ihr gleich zum aktuellen [letzten Abenteuertag](day16.md) springen.

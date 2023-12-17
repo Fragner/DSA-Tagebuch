@@ -20,5 +20,5 @@ Im Lager angekommen, wurden wir sehr unfreundlich vom Wachposten begrüßt. Zuer
 <br>
 
 [<](day9.md)
-[Tag 1](README.md)
+[Tag 1](day1.md)
 [>](day11.md)<br>

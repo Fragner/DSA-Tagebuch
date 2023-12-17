@@ -25,5 +25,5 @@ Gestärkt durch Navarios Magie und den erholsamen Schlaf befand sich Darian auf 
 <br>
 
 [< ](day2.md)
-[ Tag 1 ](README.md)
+[ Tag 1 ](day1.md)
 [ >](day4.md)<br>

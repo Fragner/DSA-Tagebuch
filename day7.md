@@ -22,5 +22,5 @@ Der Auftrag lautete: beendet den Spuk auf dem Hausboot Gorunkja. Am Schlimmsten 
 <br>
 
 [< ](day6.md)
-[ Tag 1 ](README.md)
+[ Tag 1 ](day1.md)
 [ >](day8.md)<br>

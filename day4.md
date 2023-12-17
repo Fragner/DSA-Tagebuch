@@ -20,5 +20,5 @@ Gegen Abend kamen wir in Harden an, wo wir den genauen Standort von Timpski erfu
 <br>
 
 [< ](day3.md)
-[ Tag 1 ](README.md)
+[ Tag 1 ](day1.md)
 [ >](day5.md)<br>

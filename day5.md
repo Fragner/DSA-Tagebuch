@@ -33,5 +33,5 @@ Da uns in dem Moment die Hände gebunden waren und die Goblins zumindest für de
 <br>
 
 [< ](day4.md)
-[ Tag 1 ](README.md)
+[ Tag 1 ](day1.md)
 [ >](day6.md)<br>

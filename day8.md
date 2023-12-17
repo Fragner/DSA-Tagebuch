@@ -17,5 +17,5 @@ Mit diesen Neuigkeiten brachen wir zurück ins Lager auf. Im Schilf in einem moo
 <br>
 
 [< ](day7.md)
-[ Tag 1 ](README.md)
+[ Tag 1 ](day1.md)
 [ >](day9.md)<br>
